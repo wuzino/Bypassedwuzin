@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1"
+		"url": "https://github.com/wuzino/Bypassedwuzin"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "Khaile",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1/issues"
+		"url": "https://github.com/wuzino/Bypassedwuzin"
 	},
-	"homepage": "https://github.com/umaruchan0x1861/umarubot1.1.1",
+	"homepage": "https://github.com/wuzino/Bypassedwuzin",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
